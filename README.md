@@ -53,3 +53,7 @@ Icy boy @Xxicy_boyxX
 	/unbroadcast
 	
          تبریک ربات شما حاضر است
+             TELEMAX-team
+        [amin._.dhg]https://telegram.me/Xxicy_boyxX <br>
+        [ramin]https://telegram.me/raminoa <br>
+        [rastin]https://telegram.me/GORAZE <br>
