@@ -54,6 +54,6 @@ Icy boy @Xxicy_boyxX
 	
         تبریک ربات شما حاضر است
 # TELEMAX-TEAM
-        [amin._.dhg](https://telegram.me/Xxicy_boyxX) <br>
-        [ramin](https://telegram.me/raminoa) <br>
-        [rastin](https://telegram.me/GORAZE) <br>
+        [amin._.dhg](http://telegram.me/Xxicy_boyxX) <br>
+        [ramin](http://telegram.me/raminoa) <br>
+        [rastin](http://telegram.me/GORAZE) <br>
