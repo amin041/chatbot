@@ -35,7 +35,7 @@ Icy boy @Xxicy_boyxX
 	
 	
 	
-	git clone https://github.com/mohamadkhoshnava/idbot.git
+	git clone https://github.com/amin041/chatbot.git
 	
  بجای ادرس گیت بنده ادرس گیت خود را وارد کنید
 	''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
